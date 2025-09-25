@@ -1,1 +1,1 @@
-hello 5TWIN{{$id}}
+hello 5TWIN
